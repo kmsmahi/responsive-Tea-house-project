@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+.manrope{
+    font-family: "Manrope", sans-serif;
+}
+
+.head-sec-d1-h{
+color: rgba(28, 28, 28, 1);
+font-size: 80px;
+font-weight: 800;
+}
+
+.head-sec-d1-p{
+color: rgba(119, 119, 119, 1);
+font-size: 18px;
+font-weight: 500;
+}
+
+.head-sec-d1-btn{
+background: linear-gradient(270.00deg, rgba(255, 0, 0, 1),rgba(255, 137.00003051757812, 55.999996185302734, 1) 100%);
+}
+
+.btn-p{
+color: rgba(255, 255, 255, 1);
+font-size: 20px;
+font-weight: 700;
+}
+
+.badge-div{
+background-color: rgba(255, 255, 255, 1);
+}
+
+.main-sec-h1{
+color: rgba(28, 28, 28, 1);
+font-size: 45px;
+font-weight: 800;
+}
+
+.main-sec-p{
+color: rgba(119, 119, 119, 1);
+font-size: 16px;
+font-weight: 500;
+}
+
+.inside-carts{
+background: linear-gradient(180.00deg, rgba(244, 244, 244, 1),rgba(244, 244, 244, 0) 100%);
+}
+
+.inside-catrs-h{
+color: rgba(28, 28, 28, 1);
+font-size: 30px;
+font-weight: 700;
+}
+.inside-catrs-p{
+color: rgba(119, 119, 119, 1);
+font-size: 16px;
+font-weight: 500;
+}
+.main-sec-d2-h3-1{
+color: rgba(28, 28, 28, 1);
+font-size: 45px;
+font-weight: 800;
+}
+.main-sec-d2-h3-2{
+color: rgba(28, 28, 28, 1);
+font-size: 20px;
+font-weight: 800;
+}
+.main-sec-d2-h3-3{
+color: rgba(28, 28, 28, 1);
+font-size: 20px;
+font-weight: 800;
+}
+.main-sec-2-p-1{
+color: rgba(119, 119, 119, 1);
+font-size: 16px;
+font-weight: 500;
+}
+.main-sec-2-p-2{
+color: rgba(119, 119, 119, 1);
+font-size: 16px;
+font-weight: 500;
+}
+.main-sec-2-p-3{
+color: rgba(119, 119, 119, 1);
+font-size: 16px;
+font-weight: 500;
+}
+
+.div-box-1{
+border-radius: 10px;
+background: linear-gradient(270.00deg, rgba(255, 0, 0, 1),rgba(255, 137.00003051757812, 55.999996185302734, 1) 100%);
+opacity: 0.1;
+
+}
+.div-box-2{
+border-radius: 10px;
+background: rgba(230, 166, 35, 0.1);  
+}
+.div-box-3{
+border-radius: 10px;
+background: rgba(87, 118, 57, 0.1);
+}
+.div-box-4{
+border-radius: 10px;
+background: linear-gradient(90.00deg, rgba(217, 217, 217, 1),rgba(255, 255, 255, 0) 100%);
+}
+
+.main-sec-3{
+background: linear-gradient(270.00deg, rgba(255, 0, 0, 1),rgba(255, 137.00003051757812, 55.999996185302734, 1) 100%);
+}
+
+.main-sec-3-d1-h3{
+color: rgba(244, 244, 244, 1);
+font-size: 45px;
+font-weight: 800;
+}
+
+.main-sec-3-d1-p{
+color: rgba(244, 244, 244, 1);
+font-size: 16px;
+font-weight: 500;
+}
+
+.main-sec-3-btn1{
+background-color: rgba(255, 255, 255, 1);
+}
+
+.main-sec-3-btn1 span{
+color:rgba(255, 0, 0, 1);
+font-size: 18px;
+font-weight: 600;
+}
+.main-sec-3-d2-cdiv{
+background: rgba(255, 255, 255, 1);
+}
+.main-sec-3-d2-cdiv-p1{
+color: rgba(119, 119, 119, 1);
+font-size: 16px;
+font-weight: 400;
+}
+
+.main-sec-3-d2-cdiv-h{
+color: rgba(28, 28, 28, 1);
+font-size: 16px;
+font-weight: 700;
+}
+.main-sec-3-d2-cdiv-p2{
+color: rgba(93, 90, 111, 1);
+font-size: 16px;
+font-weight: 500;
+}
+.main-sec-4-d1-h{
+color: rgba(28, 28, 28, 1);
+font-size: 45px;
+font-weight: 800;
+}
+
+.main-sec-4-d1-p{
+color: rgba(119, 119, 119, 1);
+font-size: 16px;
+font-weight: 500;
+}
+.tea-box-1{
+/* background: linear-gradient(180.00deg, rgba(244, 244, 244, 1),rgba(244, 244, 244, 0) 100%);
+} */
+.tea-box-1-p-1{
+color: rgba(119, 119, 119, 1);
+font-size: 16px;
+font-weight: 500;
+}
+.tea-box-1-h-1{
+color: rgba(28, 28, 28, 1);
+font-size: 20px;
+font-weight: 800;
+}
+.tea-box-1-p-2{
+color: rgba(119, 119, 119, 1);
+font-size: 16px;
+font-weight: 500;
+}
+.tea-box-1-h-2{
+color: rgba(28, 28, 28, 1);
+font-size: 16px;
+font-weight: 700;
+}
